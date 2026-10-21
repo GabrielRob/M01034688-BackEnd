@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/GabrielRob/M01034688-BackEnd#readme",
   "dependencies": {
+    "dotenv": "^18.0.8",
     "express": "^5.3.0",
     "mongodb": "^7.7.0"
   }
